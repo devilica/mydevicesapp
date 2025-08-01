@@ -51,7 +51,7 @@ php artisan migrate
 php artisan passport:client --password
 ```
 
-Update your `.env` file with the generated Passport client credentials:
+Update your `.env` file with the generated Passport client credentials like in this example:
 
 ```env
 PASSPORT_CLIENT_ID=3
